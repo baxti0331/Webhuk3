@@ -1,3 +1,4 @@
 Flask
 pyTelegramBotAPI
-werkzeug
+Werkzeug
+serverless-wsgi
